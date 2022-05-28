@@ -1,3 +1,35 @@
 body{
     background: #BDBDBD;
 }
+.nav-link{
+    color: gray;
+}
+.navbar-brand{
+    color: gray;
+}
+.start-50 {
+    left: 50%!important;
+    width: -webkit-fill-available;
+    text-align: center;
+}
+b, strong {
+    font-weight: bolder;
+    font-size: 100px;
+}
+.first-heading{
+    position: absolute;
+    bottom: -555px;
+    right: 75px;
+    display: flex;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+    width: 35%;
+}
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    position: absolute;
+    bottom: 190px;
+    width: 60%;
+}
