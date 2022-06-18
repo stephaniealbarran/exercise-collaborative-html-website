@@ -19,11 +19,15 @@ b, strong {
 }
 .first-heading {
     position: absolute;
-    bottom: -455px;
+    bottom: -555px;
     left: 13%;
     display: flex;
+    margin-top: 150px;
 }
 .rounded-circle {
     border-radius: 50%!important;
     width: 60%;
+}
+.texto {
+    margin-top: 150px;
 }
